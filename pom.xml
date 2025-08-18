@@ -45,21 +45,21 @@
 		<dependency>
 			<groupId>org.springdoc</groupId>
 			<artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
-			<version>2.3.0</version>
+			<version>2.8.8</version>
 		</dependency>
 
 		<!-- Eureka Client dependency -->
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
-			<version>4.1.0</version>
+			<version>4.2.0</version>
 		</dependency>
 
 		<!-- To use Feign client, a Rest Template equivalent with Eureka discovery awareness -->
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-openfeign</artifactId>
-			<version>4.1.0</version>
+			<version>4.1.5</version>
 
 		</dependency>
 		<dependency>
