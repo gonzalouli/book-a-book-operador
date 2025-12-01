@@ -52,7 +52,7 @@
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
-			<version>4.1.0</version>
+			<version>5.0.0</version>
 		</dependency>
 
 		<!-- To use Feign client, a Rest Template equivalent with Eureka discovery awareness -->
